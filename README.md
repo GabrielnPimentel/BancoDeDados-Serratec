@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 style="width: 512px; height: auto; align: center;">
 <img src="./Header/ordinaryBeaver.jpeg">
 </h1>
 
@@ -13,7 +13,7 @@
 
 ## :desktop_computer: Sobre o Projeto
 
-$$ Sobre o ecommerce $$
+$$ Sobre $$
 <p align="center">Trabalho individual feito por Gabriel Pimentel na residência em TIC do Serratec.</p>
 
 ## :hammer_and_wrench: Tecnologias utilizadas
@@ -39,11 +39,11 @@ $$ Sobre o ecommerce $$
 ## :fountain_pen: Autores
 
 - 🥇  [Gabriel Pimentel](https://github.com/GabrielnPimentel)
-- 🥈  [Super Saiyan Beaver]
-- 🥉  [Ordinary Beaver]
+- 🥈  Super Saiyan Beaver
+- 🥉  Ordinary Beaver
 
 
-<h2 align="center">
-<img src="./Footer/superBeaver.jpeg">
+<h2 style="width: 512px; height: auto; align: center;">
+  <img src="./Footer/superBeaver.jpeg">
 </h2>
 
