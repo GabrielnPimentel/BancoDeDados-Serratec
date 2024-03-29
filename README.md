@@ -1,6 +1,6 @@
-<h1 style="width: 512px; height: auto; align: center;">
-<img src="./Header/ordinaryBeaver.jpeg">
-</h1>
+<div align="center">
+<img style="width:512px"  src="./Header/ordinaryBeaver.jpeg">
+</div>
 
 ## :detective: Índice
 
@@ -39,8 +39,7 @@ $$ Sobre $$
 - 🥈  Super Saiyan Beaver
 - 🥉  Ordinary Beaver
 
-
-<h2 style="width: 512px; height: auto; align: center;">
-  <img src="./Footer/superBeaver.jpeg">
-</h2>
+<div align="center">
+  <img style="width: 512px" src="./Footer/superBeaver.jpeg">
+</div>
 
