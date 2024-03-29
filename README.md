@@ -29,10 +29,7 @@ $$ Sobre $$
 <div align="center">
 
   ## Modelo Conceitual
-<img src="./Diagramas/modelo-conceitual.png">
-  
-  ## Modelo Lógico
-<img src="./Diagramas/modelo-logico.png">
+<img src="./TrabalhoIndividual.drawio.png">
 
 </div>
 
